@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rootmap
+- 👋 Hi, I’m @frank
 - 👀 I’m interested in writing code in different languages
 - 🌱 I’m currently learning GoLang
 - 💞️ I’m looking to collaborate on Null
